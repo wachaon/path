@@ -1,10 +1,13 @@
 {
   "name": "path",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "alias for using npm packages in wes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "repository": {
     "type": "git",
